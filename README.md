@@ -8,8 +8,8 @@
   \*...
 
 #### Screen-shots
-![Dog_Shop interface]()
-![Dog_Shop interface]()
+![React_Reddit_Demo interface](https://github.com/phgnamm/React_Reddit_Demo/blob/master/screenshots/demo.png)
+![React_Reddit_Demo interface](https://github.com/phgnamm/React_Reddit_Demo/blob/master/screenshots/demo2.png)
 
 ##### Connect me via : namdang089@gmail.com
 
